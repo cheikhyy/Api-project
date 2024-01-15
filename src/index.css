@@ -1,0 +1,52 @@
+/* App */
+.App{
+  text-align: center;
+  justify-content: center;
+}
+
+/* Big_title */
+h1 {
+
+ color: tomato;
+ font-weight: 700;
+ font-size: 2.5rem;
+ font-family: cursive;
+ position: relative;
+}
+
+ /* ul_Lists --- */
+ ul{
+  width: 50%;
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  margin-left: 22rem;
+  margin-top: 2rem;
+}
+
+/* list of users */
+ul li{
+  line-height: 2rem;
+  font-size: 20px;
+  color: #555;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  list-style: none;
+  /* text-align: center; */
+}
+
+ .user{
+  margin-top: 3rem;
+  justify-content: center;
+  margin-left: 3rem;
+} 
+
+/* name of users */
+ strong{
+  font-size: 20px;
+} 
+
+
+
